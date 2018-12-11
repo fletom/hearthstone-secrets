@@ -1,0 +1,14 @@
+{
+	"name": "Hearthstone Secrets",
+	"short_name": "HS Secrets",
+	"description": "Hearthstone Secrets is a quick reference page for all secret cards in Blizzard's online collectible card game Hearthstone.",
+	"display": "standalone",
+	"lang": "en",
+	"start_url": "/",
+	"scope": "/",
+	"icons": [{
+		"src": "icon.png",
+		"sizes": "200x200",
+		"type": "image/png"
+	}]
+}
